@@ -15,3 +15,12 @@ print(c)
 c/=a
 print(c)
 5.0
+c%=a
+print(c)
+1.0
+c**=a
+print(c)
+1.0
+c//=a
+print(c)
+0.0
