@@ -1,0 +1,5 @@
+l=2
+b=3
+area=l*b
+print(area)
+6
