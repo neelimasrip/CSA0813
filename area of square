@@ -1,0 +1,4 @@
+s=2
+area=s*s
+print(area)
+4
