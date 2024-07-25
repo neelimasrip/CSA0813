@@ -1,0 +1,8 @@
+p = eval(input("enter the value for p"))             
+enter the value for p 5000
+t=eval(input("enter the value for t"))             
+enter the value for t 24
+r=eval(input("enter the value for r"))            
+enter the value for r 10
+print(p*r*t/100)            
+12000.0
