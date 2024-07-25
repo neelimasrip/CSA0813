@@ -1,0 +1,3 @@
+a="sri"
+print(len(a))
+3
