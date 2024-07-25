@@ -1,0 +1,11 @@
+p=eval(input("enter the value of p"))
+enter the value of p50000
+r=eval(input("enter the value of r"))
+enter the value of r4
+t=eval(input("enter the value of t"))
+enter the value of t365*24*60*60
+n=eval(input("enter the value of n"))
+enter the value of n5
+c=p*(1+r/n)**n*t-p
+print(c)
+29794708174000.004
