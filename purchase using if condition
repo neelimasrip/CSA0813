@@ -1,0 +1,4 @@
+purchase=int(input("enter the value:"))
+if(purchase>2000):
+    purchase=purchase-500
+    print("amount:",purchase)
