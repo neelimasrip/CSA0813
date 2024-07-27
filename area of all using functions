@@ -1,0 +1,19 @@
+def area(l,h):
+    return(l*h)
+def area1(r):
+    return(r*r*3,14)
+def area2(s):
+    return(s*s)
+def area3(q,w):
+    return(0.5*q*w)
+a=int(input("enter the number:"))
+b=int(input("enter the number:"))
+print("area is {}".format(area(a,b)))
+x=int(input("enter the value:"))
+print("area is {}".format(area1(x)))
+c=int(input("enter the value:"))
+print("area is {}".format(area2(c)))
+d=int(input("enter the value:"))
+e=int(input("enter the value:"))
+print("area is {}".format(area3(d,e)))
+
