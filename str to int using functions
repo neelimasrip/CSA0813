@@ -1,0 +1,6 @@
+def str_to_int():
+    s="313"
+    i=int(s)
+    print(f"str_to_int is :{i}")
+
+str_to_int()
