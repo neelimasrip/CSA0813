@@ -1,0 +1,6 @@
+def str_to_float():
+    s="3.14"
+    f=float(s)
+    print(f"string_to_float is:{f}")
+
+str_to_float()
