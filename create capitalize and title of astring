@@ -1,0 +1,6 @@
+a="have a great day"
+print(a.capitalize())
+
+print(a.upper())
+
+print(a.title())
