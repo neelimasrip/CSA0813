@@ -1,0 +1,6 @@
+def ascending(a):
+    print(sorted(a))
+
+a=[1,5,3,4]
+
+ascending(a)
