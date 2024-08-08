@@ -1,0 +1,7 @@
+import math
+n=8
+r=6
+permutations=math.perm(n,r)
+combinations=math.comb(n,r)
+print(permutations)
+print(combinations)
